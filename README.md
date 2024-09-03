@@ -1,2 +1,2 @@
-# i-love-web
+# I love web
 Learning journal, blog, digital gardening
