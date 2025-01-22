@@ -30,3 +30,54 @@ Try to leave this world a little better than when you found it. ← same goes fo
 
 ### Afbeeldingen
 n van de meest impactvolle optimalisaties ligt in het reducern
+
+
+# Van offerte naar productie
+## Timeline
+vraag - gesprek - 
+
+## Hoe kom je aan projecten?
+- NETWERK
+
+## Wat wil de opdrachtgever?
+- Briefing
+- Verwachtingen
+- Wat kan jij, wat kan ik
+- Nee zeggen, wil ik dit wel
+**De drie p's**
+
+## Wat staat er in een offerte?
+Lang kort maakt niet zo veel uit:
+- Wat ga je doen (en wat niet)
+- Begroting
+- Planning em afspraken
+- Algemene voorwaarden (FENIT)
+
+**THE GOODlist**
+- KOR (freelancen naast loondienst)
+huidige situatie - dromen en doelen - planning - kosten
+
+## Van schets naar ontwerp
+- Grove schetsen laten zien
+- Daarna high fi
+- En dan snel bouwen
+- Design changes on the way
+
+## Bouwen, bouwen, bouwen
+- Fundering, datamodel
+- Framework kiezen
+- CMS? Zeker doen
+- Testen (HTML validator, Lighthouse test)
+- Acceptatie omgeving opzetten (de klant kan dat zien en goedkeuring kan geven) (test, acceptatie, productie(finished product) prive repo die build naar de public repo)
+
+- Garantie, bug fixing
+- Moneybird
+
+## Service level agreementt
+Maak afspraken voor naoplevring:
+- Hositingkosten? Updates?
+- Maandelijkse vaste uren?
+- Nacalculatie?
+
+- DDA documenten
+- 
