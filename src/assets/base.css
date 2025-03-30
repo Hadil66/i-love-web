@@ -1,0 +1,26 @@
+:root {
+    --main-clr: hsl(75, 36%, 38%); 
+
+    --light-clr-1: hsl(75, 36%, 43%);
+    --light-clr-2: hsl(75, 36%, 48%);
+    --light-clr-3: hsl(75, 36%, 53%);
+    --light-clr-4: hsl(75, 36%, 58%);
+    --light-clr-5: hsl(75, 36%, 63%);
+    --light-clr-6: hsl(75, 36%, 68%);
+    --light-clr-7: hsl(75, 36%, 73%);
+    --light-clr-8: hsl(75, 36%, 78%);
+    --light-clr-9: hsl(75, 36%, 83%);
+    --light-clr-10: hsl(75, 36%, 88%);
+
+    --dark-clr-1: hsl(75, 36%, 33%);
+    --dark-clr-2: hsl(75, 36%, 28%);
+    --dark-clr-3: hsl(75, 36%, 23%);
+    --dark-clr-4: hsl(75, 36%, 18%);
+    --dark-clr-5: hsl(75, 36%, 13%);
+    --dark-clr-6: hsl(75, 36%, 8%);
+    --dark-clr-7: hsl(75, 36%, 6%);
+    --dark-clr-8: hsl(75, 36%, 4%);
+    --dark-clr-9: hsl(75, 36%, 2%);
+    --dark-clr-10: hsl(75, 36%, 1%);
+
+}

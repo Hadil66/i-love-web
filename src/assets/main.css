@@ -1,0 +1,16 @@
+@import './base.css';
+
+@font-face {
+  font-family: "Gidole";
+  src: url(Gidole-Regular.ttf);
+}
+
+body {
+    background-color: hsl(75, 36%, 38%);
+    color: var(--dark-clr-7);
+    font-family: "Gidole";
+  }
+
+  a {
+    color: var(--light-clr-7);
+}
